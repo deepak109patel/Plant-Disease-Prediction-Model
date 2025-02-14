@@ -121,6 +121,11 @@ from google.colab import files
 files.download('plant-disease-prediction-model.h5')
 ```
 
+
+## Download Pretrained Model
+[Download plant-disease-prediction-model.h5](https://drive.google.com/file/d/10IcRE0T4HD-5P-tbxAl4H_5Z80n0ErLv/view?usp=drive_link)
+
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
