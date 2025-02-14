@@ -101,7 +101,7 @@ print("Predicted Class:", np.argmax(predictions))
 
 ## Results
 - **Training Accuracy**: The model achieves 98% accuracy on the training set.
-- **Validation Accuracy**: The model generalizes well to the validation set.
+- **Validation Accuracy**: The model generalizes well to the validation set, it also has the accuracy of 96%.
 - **Confusion Matrix**: Visualized to understand the model's performance across different classes.
 
 ![Confusion Matrix](confusion_matrix.png)
